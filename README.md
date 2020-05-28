@@ -1,4 +1,4 @@
-# Cobex2000
+# Cubex2000
 Software for small device to measure position, acceleration, temperature and pressure.
 
 Device photos:
